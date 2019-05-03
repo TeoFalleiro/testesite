@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css?family=Exo);
+.cab{
+  top: 0;
+  left: 0;
+  right: 0;
+  padding-top: 15px;
+  padding-bottom:15px;
+}
+.cab, .button{
+  background-color: #00D0AD;
+  color: white;
+}
+.logo{
+  text-align: justify;
+  font-family: 'Exo';
+  font-size: 18px;
+  margin-left: 10px;
+}
+.logo2{
+  text-align: center;
+  font-family: 'Exo';
+  font-size: 18px;
+  color: #696D71;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+.form, .box{
+  margin: 5px;
+}
+.form, .cadastro{
+  text-align: center;
+  font-family: arial;
+}
+.text{
+  width: 350px;
+  border-radius: 3px;
+  border:solid 1px 	grey;
+  padding:5px;
+}
+.button, .button2{
+  border: solid #00D0AD;
+  border-radius: 3px;
+  margin: 10px;
+  height: 40px;
+  width: 350px;
+  cursor: pointer;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+.button2{
+  background-color: white;
+  color:  #00D0AD;
+}
+.esqueceu{
+  font-size: 12px;
+  font-weight: bold;
+  color: grey;
+}
+a{
+  text-decoration: none;
+  color: blue;
+}
